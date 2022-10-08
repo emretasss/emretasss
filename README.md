@@ -20,7 +20,7 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"  align="left"/> ](https://www.instagram.com/emre_tas_770/)
 <br></br>
 
-    Coffee coffee=new coffe();
+    Coffee coffee=new Coffe();
     if(coffee.empty)
     {
         coffee.reffill();
