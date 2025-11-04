@@ -1,78 +1,81 @@
-<!-- Header Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnx37nc3vjsdeLK/giphy.gif" width="180" height="180" alt="header gif" />
-</p>
-
-<h1 align="center">Hey 👋 I'm Emre Taş (emretasss)</h1>
-<h3 align="center">Founder of <a href="https://marithen.com">Marithen Software</a> • Software Engineer • Blockchain & AI Automation Developer</h3>
+<h1 align="center">👋 Hey, I'm Emre Taş</h1>
+<h3 align="center">Founder of <a href="https://marithen.com" target="_blank">Marithen Software</a> | Software Engineer | AI • Blockchain • SaaS Automation</h3>
 
 ---
 
 ## 🧭 About Me
-I'm a Software Engineer and the founder of **Marithen Software** — we design, build and deploy **AI agents**, **Web3 platforms**, and **automation systems** for businesses and developers.
+I'm a **Software Engineer**, **Blockchain Developer**, and the **Founder of Marithen Software** — a company building advanced **AI automation systems**, **Web3 platforms**, and **SaaS products** for global clients.
 
-**Focus areas:**
-- Autonomous AI agents & automations (n8n, LangChain, custom agents)  
-- Blockchain development on **Solana**, **Stellar** and EVM chains (Rust, Anchor, Solidity)  
-- Full-stack development with **Rust**, **Next.js**, **TypeScript**  
-- DevOps, CI/CD, secure & scalable architectures
+💡 We design and launch:
+- 🤖 AI Agents & Automation Flows (n8n, LangChain, custom pipelines)  
+- 🌐 SaaS Platforms & API-based systems (Next.js, TypeScript, Rust)  
+- 🪙 Web3 & Blockchain Apps (Solana, Stellar, Rust, Anchor)  
+- ⚙️ Full-scale Infrastructure, DevOps & Cloud setups  
+
+> “We turn intelligent systems into scalable businesses.”
 
 ---
 
 ## 🚀 What I Build
-- **AI Agents & Marketing Automation** — n8n flows, LLM integrations, campaign automation  
-- **dApps & Smart Contracts** — Solana (Rust/Anchor), Stellar integrations, contract audits  
-- **Developer Tools & SDKs** — CLIs, SDKs and infra tooling for Web3 devs
+| Category | Description |
+|-----------|--------------|
+| 🧠 **AI Agents & Automations** | n8n, OpenAI, LangChain-based workflow automation |
+| 🌍 **Web3 Platforms** | Solana, Stellar & EVM smart contracts and dApps |
+| ☁️ **SaaS Products** | Subscription-based platforms with real-time analytics |
+| 🧩 **Developer Tools** | APIs, SDKs, and CLI utilities for AI & Web3 ecosystems |
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,solidity,python,typescript,react,nextjs,java,cs,cpp,nodejs,docker,postgres,redis,git,github,linux" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=rust,solidity,typescript,react,nextjs,python,nodejs,docker,git,github,postgres,redis,linux,aws,vercel" />
 </p>
 
 ---
 
 ## 🏆 Featured Projects
-### 🔹 Marithen AI Agents  
-Autonomous AI agents and workflow automations for BI & marketing.  
-**Stack:** Rust • Next.js • n8n • LangChain • OpenAI  
-**Site:** https://marithen.com
+### ⚙️ Marithen AI Automations  
+AI agent systems and marketing automations built with n8n, OpenAI, and Rust.  
+🔗 [marithen.com](https://marithen.com)
 
-### 🔹 StellarPay  
-Web3 payments & integrations on Stellar.  
-**Stack:** TypeScript • Stellar SDK • Node.js
+### 🪙 StellarPay  
+A decentralized payment and settlement layer using Stellar SDK.  
+🧱 Stack: TypeScript, Stellar SDK, Next.js
 
 ### 🔹 Solana Contracts  
-Secure, audited smart contracts for Solana ecosystem.  
-**Stack:** Rust • Anchor
+Secure, production-grade smart contracts for Solana built with Anchor.  
+🦀 Stack: Rust, Anchor
+
+### ☁️ SaaS Engine  
+Multi-tenant SaaS architecture boilerplate with billing, auth, and analytics.  
+🧩 Stack: Next.js, Supabase, Stripe
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emretasss&show_icons=true&theme=tokyonight" height="160" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emretasss&layout=compact&theme=tokyonight" height="160" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emretasss&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emretasss&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emretasss&theme=tokyonight" height="160" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emretasss&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
   <a href="https://github.com/emretasss">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emretasss&theme=react-dark" alt="activity graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emretasss&theme=react-dark&hide_border=true" />
   </a>
 </p>
 
 ---
 
-## 🌍 Connect
+## 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/emre-taş/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="linkedin"/></a>
   <a href="https://www.instagram.com/emre_tas_770/"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="instagram"/></a>
   <a href="mailto:contact@marithen.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="mail"/></a>
-  <a href="https://marithen.com"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="marithen"/></a>
+  <a href="https://marithen.com"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="vercel"/></a>
 </p>
 
 ---
