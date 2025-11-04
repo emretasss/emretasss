@@ -1,67 +1,47 @@
-<h1 align="center">👑 Emre Taş — Building the Future, One Commit at a Time</h1>
+# Emre Taş
 
-<p align="center">
-🚀 Full-Stack Developer • Web3 | SaaS | AI | Open Source
-</p>
-
----
-
-### 💡 About Me
-
-I’m a developer who loves turning ideas into scalable products.  
-Currently building **SaaS platforms**, experimenting with **Web3 technologies**, and automating workflows using AI.  
-Every project is a new challenge — I code to **create**, **innovate**, and **dominate**.
+Founder & Lead Developer at [Marithen Software](https://marithen.com)  
+Building intelligent systems, automations, and decentralized applications.
 
 ---
 
-### 🧠 Tech Arsenal
+## 🚀 About
 
-💻 **Languages & Tools:**  
-Rust • TypeScript • Next.js • React • Node.js • Tailwind • Solidity • WASM • PostgreSQL • Docker • GitHub Actions
+I’m a software engineer and entrepreneur focused on developing **AI-driven automation**, **Web3**, and **SaaS solutions**.  
+At **Marithen**, we design and build products that connect automation, data, and intelligence — from **AI Agents** and **n8n workflows**, to **blockchain-based infrastructure** on **Solana** and **Stellar** networks.
 
-🧩 **Focus Areas:**  
-Blockchain Apps • SaaS Infrastructure • Smart Contracts • API Engineering • Frontend Systems
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=emretasss&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=emretasss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emretasss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
-  <img src="https://github-profile-trophy.vercel.app/?username=emretasss&theme=tokyonight&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="48%">
-</p>
+I enjoy building:
+- ⚙️ AI + Automation workflows for businesses  
+- 🌐 SaaS platforms and API-first systems  
+- 🧠 AI Agents integrated with data pipelines  
+- ⛓️ Smart contracts and decentralized apps (Rust, Next.js, TypeScript)
 
 ---
 
-### 🌍 Contribution Heatmap
+## 🧩 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emretasss&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
-</p>
-
----
-
-### 🧱 SaaS Projects & Experiments
-
-- 💼 **AI-Powered SaaS Platforms** — Automating workflows with intelligent APIs  
-- 🪙 **Blockchain Integrations** — Smart contracts & decentralized logic  
-- ⚙️ **Full-Stack Tools** — Rapid prototyping & developer-first infrastructure  
-- ☁️ **Cloud Deployments** — Scalable systems with modern DevOps pipelines  
+**Languages:** Rust, TypeScript, JavaScript, Solidity  
+**Frameworks:** Next.js, React, Node.js  
+**Automation:** n8n, LangChain, OpenAI API  
+**Blockchain:** Solana, Stellar, Web3.js  
+**Other:** Docker, Supabase, PostgreSQL, Redis
 
 ---
 
-### ⚔️ Motto
+## 🌍 Currently
 
-> “Code like a king. Ship like a machine.”
+- Building AI-driven SaaS platforms under **Marithen Software**  
+- Developing smart contract infrastructure on **Solana**  
+- Designing automation pipelines connecting **AI Agents** to business operations
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emretasss&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
+## 📫 Connect
+
+- 🌐 [marithen.com](https://marithen.com)  
+- 💼 [linkedin.com/in/emretasss](https://linkedin.com/in/emretasss)  
+- 🐙 [github.com/emretasss](https://github.com/emretasss)
+
+---
+
+> “Automation is not about replacing people — it’s about amplifying what humans can achieve.”
