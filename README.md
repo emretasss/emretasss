@@ -1,38 +1,46 @@
 # Emre Taş
 
-Founder & Lead Developer at [Marithen Software](https://marithen.com)  
-Building intelligent systems, automations, and decentralized applications.
+**Software Engineer | Blockchain Developer | Founder of [Marithen Software](https://marithen.com)**  
+Building intelligent systems, decentralized solutions, and AI-powered automation.
 
 ---
 
-## 🚀 About
+## 🧠 About Me
 
-I’m a software engineer and entrepreneur focused on developing **AI-driven automation**, **Web3**, and **SaaS solutions**.  
-At **Marithen**, we design and build products that connect automation, data, and intelligence — from **AI Agents** and **n8n workflows**, to **blockchain-based infrastructure** on **Solana** and **Stellar** networks.
+I am a **Software Engineer** and **Blockchain Developer** passionate about designing scalable, secure, and intelligent systems.  
+As the **Founder and Lead Developer at Marithen Software**, I focus on combining **AI automation**, **Web3 technologies**, and **SaaS products** to create next-generation digital infrastructure.
 
-I enjoy building:
-- ⚙️ AI + Automation workflows for businesses  
-- 🌐 SaaS platforms and API-first systems  
-- 🧠 AI Agents integrated with data pipelines  
-- ⛓️ Smart contracts and decentralized apps (Rust, Next.js, TypeScript)
+My expertise lies in building:
+- ⚙️ AI Agents & workflow automation with **n8n** and **LangChain**  
+- ⛓️ Smart contracts and decentralized apps on **Solana** & **Stellar**  
+- 🚀 Scalable **SaaS** products with **Rust**, **Next.js**, and **TypeScript**  
+- 🔗 Integrations that bridge Web2 and Web3 systems seamlessly
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Core Technologies
 
 **Languages:** Rust, TypeScript, JavaScript, Solidity  
 **Frameworks:** Next.js, React, Node.js  
-**Automation:** n8n, LangChain, OpenAI API  
-**Blockchain:** Solana, Stellar, Web3.js  
-**Other:** Docker, Supabase, PostgreSQL, Redis
+**Automation & AI:** n8n, LangChain, OpenAI API, Pinecone  
+**Blockchain:** Solana, Stellar, Ethereum, Web3.js  
+**DevOps & Databases:** Docker, Supabase, PostgreSQL, Redis
 
 ---
 
-## 🌍 Currently
+## 🧭 Vision
 
-- Building AI-driven SaaS platforms under **Marithen Software**  
-- Developing smart contract infrastructure on **Solana**  
-- Designing automation pipelines connecting **AI Agents** to business operations
+At **Marithen**, we’re building tools that connect automation, intelligence, and decentralization.  
+Our mission is to empower developers and businesses to move faster, smarter, and securely through **AI + Blockchain convergence**.
+
+---
+
+## 🌍 Current Focus
+
+- Architecting **AI-powered SaaS systems**  
+- Leading **Web3 and DeFi development** on **Solana**  
+- Developing **automation infrastructure** for intelligent agents  
+- Scaling **Marithen Software** as a next-gen tech company
 
 ---
 
@@ -44,4 +52,4 @@ I enjoy building:
 
 ---
 
-> “Automation is not about replacing people — it’s about amplifying what humans can achieve.”
+> *“Software engineers build the future — blockchain developers define its rules.”*
